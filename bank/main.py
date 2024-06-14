@@ -1,5 +1,5 @@
 import mysql.connector
-mydb=mysql.connector.connect(host='localhost',user='root',password='Dineshck75@',database='Bank_management')
+mydb=mysql.connector.connect(host='localhost',user='root',password='',database='Bank_management')
 
 
 def openAccount():
